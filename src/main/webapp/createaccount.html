@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>createaccount</title>
+<link rel="stylesheet" href="CSSFile.css">
+</head>
+<body style="background-color: darkgrey;">
+	<div class="d2">
+		<h1 align="center" style="color: antiquewhite;">Create Account</h1>
+		<form action="savedata80" method="post">
+			<input type="text" name="name" placeholder="Name" class="in3">
+			<input type="email" name="email" placeholder="Email" class="in3">
+			<input type="password" name="password" placeholder="Password" class="in3">
+			<input type="number" name="mobile" placeholder="Mobile Number" class="in3" style="margin-bottom: 10px
+			;" pattern="[0-9]{10}"><br>
+
+			<input type="radio" name="choice" value="Create account as merchant" style="margin-left: 40px;margin-bottom: 10px;"><span class="in4">Create account as merchant </span><br>
+			<input type="radio" name="choice"  value="Create account as customer" style="margin-left: 40px;"><span class="in4">Create account as customer</span>
+			
+			<input type="submit" value="create account" class="sub1">
+		</form>
+		<a href="login.html" class="l2">login</a>
+	</div>
+</body>
+</html>

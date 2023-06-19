@@ -1,0 +1,372 @@
+@charset "ISO-8859-1";
+/* Login Page  */
+.d1{
+    height: 400px;
+    width: 450px;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 30%;
+    background-color: rgb(109, 126, 126);
+    border-radius: 5px;
+}
+.in{
+    width: 80%;
+    margin-top: 10px;
+    height: 30px;
+    margin-left: 40px;
+    font-size: large;
+    border-radius: 10px;
+}
+.in2{
+    font-size: larger;
+    margin-top: 20px;
+    margin-left: 8px;
+    align-content: center;
+    color: aliceblue;
+}
+.in11{
+    margin-left: 50px;
+    margin-top: 8px;
+}
+.sub{
+    height: 50px;
+    width: 100px;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(179, 197, 230);
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40%;
+}
+.l1{
+    text-decoration: none;
+    margin-left: 40%;
+    margin-top: 50px;
+    color: antiquewhite;
+}
+.l1:hover{color: rgb(54, 54, 250);text-decoration: underline;}
+
+/* create Account(Customer ,Merchant) */
+.d2{
+    height: 450px;
+    width: 350px;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 35%;
+    background-color: rgb(109, 126, 126);
+    border-radius: 8px;
+}
+.in3{
+    width: 80%;
+    margin-top: 10px;
+    height: 30px;
+    font-size: large;
+    border-radius: 10px;
+    margin-left:25px ;
+}
+.in4{
+    font-size: large;
+    margin-top: 30px;
+    align-content: center;
+    color: aliceblue;
+}
+.sub1{
+    height: 45px;
+    width: 55%;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(179, 197, 230);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 65px;
+}
+.l2{
+    font-size: larger;
+    text-decoration: none;
+    color: antiquewhite;
+    margin-left:40% ;
+}
+
+/* Cutomer option */
+
+.l3{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: large;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+.l4{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 75%;
+}
+.d3{
+    background-color: black;
+    position:fixed;
+    top: 0px;
+    height: 110px;
+    width: 110%;
+    margin-left: -10px;
+}
+.d4{
+    height: 50px;
+    width: 110%;
+    margin-left: -10px;
+    margin-top: 110px;
+    padding-top: 10px;
+    background-color: rgb(162, 160, 160);
+}
+.d5{
+    height: 150px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 30px;
+    background-color: darkslategray;
+}
+.i5{
+    height: 20px;
+    width: 20%;
+    font-size: large;
+    border-radius: 10px;
+}
+.sub2{
+    border-radius: 10px;
+    height: 25px;
+    width: 10%;
+    font-size: large;
+    background-color: rgb(247, 193, 127);
+}
+.s1 a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: bolder;
+}
+.s1{
+    font-size: large;
+    color: antiquewhite;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.s2{
+    margin-left: 10px;
+    color: antiquewhite;
+    font-size: larger;
+}
+
+/* View Cart */
+
+.a1{
+    text-decoration: none;
+    color: antiquewhite;
+    height: 150px;
+    width: 30px;
+    font-size: 25px;
+}
+.t1{
+    color: antiquewhite;
+    font-size: large;
+    background-color: rgb(90, 144, 147);
+    margin-left: 190px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.i6{
+    height: 20px;
+    width: 70px;
+    background-color: rgb(212, 228, 229);
+    border-radius: 8px;
+}
+.sub3{
+    height: 25px;
+    background-color: burlywood;
+    border-radius: 7px;
+}
+td a{
+    text-decoration: none;
+    color: red;
+}
+.div1{
+    height: 70px;
+    width: 600px;
+    padding-top: 4px;
+    padding-left: 50px;
+    background-color: rgb(90, 144, 147);
+}
+
+/* Merchant Option */
+
+.a2 a{
+    text-decoration: none;
+    font-size: larger;
+    color: antiquewhite;
+    padding-left: 6px;
+}
+
+.a2{
+    background-color: rgb(205, 141, 96);
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+    padding-top: 5px;
+}
+.d6{
+    background-color: rgb(109, 126, 126);
+    height: 400px;
+    width: 300px;
+    margin-left: 550px;
+}
+.a3 a{
+    text-decoration: none;
+    font-size: larger;
+    color: antiquewhite;
+    padding-left: 6px;
+    margin-left: 40px;
+}
+.a3:hover{background-color:rgb(235, 144, 79);}
+.a3{
+    background-color: rgb(177, 149, 112);
+    height: 30px;
+    width: 200px;
+    padding-top: 7px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+/* Add Product */
+
+.d7{
+    background-color: rgb(109, 126, 126);
+    height: 350px;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 30px;
+    border-radius:10px ;
+}
+.i7{
+    height: 30px;
+    width: 89%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: large;
+}
+.sub4{
+    height: 40px;
+    width: 30%;
+    border-radius: 5px;
+    margin-left: 32%;
+    background-color: rgb(234, 155, 97);
+}
+
+/* Admin Option */
+
+.d8{
+     height: 400px;
+     background-color: rgb(109, 126, 126);
+     width: 300px;
+     border-radius: 10px;
+     margin-left: 40%;
+}
+li{
+    height:45px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(201, 137, 91);
+    width: 200px;
+    padding-top: 20px;
+    color: antiquewhite;
+    margin-left:15px ;
+}
+li a{
+    text-decoration: none;
+    font-size: larger;
+    color: antiquewhite;
+    padding-left: 6px;
+    margin-left: 30px;
+}
+.d9{
+    height: 250px;
+    background-color: rgb(109, 126, 126);
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+li:hover{
+    background-color: rgb(249, 143, 72);
+    color: rgb(248, 219, 180);
+}
+.d10{
+    background-color: rgb(109, 126, 126);
+    color: antiquewhite;
+    height: 200px;
+    width: 350px;
+    margin-left: 30%;
+    font-size: larger;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.d11{
+    height: 150px;
+    background-color: rgb(109, 126, 126);
+    width: 350px;
+    margin-left: 30%;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-size: larger;
+    padding-top: 10px;
+    margin-top: 20px;
+    color: antiquewhite;
+}
+.i8{
+    height: 20px;
+    margin-top: 5px;
+}
+.sub5{
+    height:25px ;
+    background-color: rgb(236, 151, 90);
+    border-radius: 5px;
+}
+
+/* Create Admin */
+
+.d12{
+    background-color: rgb(109, 126, 126);
+    height: 300px;
+    width: 400px;
+    margin-left: 30%;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+.in12{
+    height: 20px;
+    width: 80%;
+    margin-left:30px ;
+    margin-top: 10px;
+}
+.sub6{
+    margin-left: 150px;
+    margin-top:20px ;
+    height: 40px;
+    font-size: large;
+    background-color: rgb(236, 151, 90);
+}
+.s3 a{
+    color: antiquewhite;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.s3{
+    margin-left: 160px;
+    font-size: large;
+}
+.s3 a:hover{
+    text-decoration: underline;
+    color: rgb(225, 173, 51);
+}
